@@ -1,0 +1,17 @@
+body {
+  /* 界面字体：侧边栏、菜单、设置等 */
+  --font-interface-theme: -apple-system, BlinkMacSystemFont, 'SF Pro',
+    'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+  /* 笔记正文字体 */
+  --font-text-theme: -apple-system, BlinkMacSystemFont, 'SF Pro',
+    'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+  /* 等宽字体：代码等内容 */
+  /* --font-monospace-theme: var(
+    --macos-mono-font,
+    'SF Mono',
+    ui-monospace,
+    monospace
+  ); */
+}
